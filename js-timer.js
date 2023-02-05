@@ -9,6 +9,7 @@ function theFinalCountDown(seconds) {
     }
   }, 1000);
 }
+theFinalCountDown(20);
 
 // function randomGame() {
 //   let number;
