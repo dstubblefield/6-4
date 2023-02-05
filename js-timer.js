@@ -7,7 +7,7 @@ function theFinalCountDown(seconds) {
     } else {
       console.log(seconds);
     }
-  });
+  }, 1000);
 }
 
 // function randomGame() {
